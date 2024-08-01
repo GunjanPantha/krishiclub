@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027843172882",
+    "project_id": "krishi-club-4315b",
+    "storage_bucket": "krishi-club-4315b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027843172882:android:dd9b59eac9074a4baf86cb",
+        "android_client_info": {
+          "package_name": "com.pantharion.krishiclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70YVND6YqBhlOmyKig43zIhD67tHYUpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
