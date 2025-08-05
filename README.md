@@ -1,6 +1,6 @@
-# krishiclub
+# Krishi Club
 
-This is a Flutter project designed to connect farmers and buyers.
+This is a working prototype for a Flutter-based startup project designed to connect farmers and buyers.
 
 ## Features
 
